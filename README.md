@@ -8,7 +8,7 @@ In this report it can be found all the tasks done it during the semester.
 
 Introduction to UNIX Shell.
 
-<img src="http://edii.epizy.com/images/CompletedShellCourse.png" width="200" />
+<img src="http://edii.epizy.com/images/CompletedShellCourse.png" width="500" />
 
 - Datacamp shell course completed
 

@@ -35,13 +35,13 @@ In this report it can be found all the tasks done it during the semester.
 
 Midterm Exam - Plotting large vectors in R and Python.
 
-<a href="">Midterm Exam PDF</a>
+<a href="https://github.com/EdgrFA/RAE411/blob/master/Week6/MidTermExam.pdf">Midterm Exam PDF</a>
 
 ### Week7
 
 - Microproject
 
-<a href="">Microproject PDF</a>
+<a href="https://github.com/EdgrFA/RAE411/blob/master/Week7/MicroProject.pdf">Microproject PDF</a>
 
 ### Week8
 

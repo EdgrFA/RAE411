@@ -10,8 +10,7 @@ Introduction to UNIX Shell.
 
 <img src="http://edii.epizy.com/images/CompletedShellCourse.png" width="100" />
 
-![Image](http://edii.epizy.com/images/CompletedShellCourse.png)
-
+- Datacamp shell course completed
 
 ### Week2
 

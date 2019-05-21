@@ -8,9 +8,8 @@ In this report it can be found all the tasks done it during the semester.
 
 Introduction to UNIX Shell.
 
-```markdown
 ![Image](https://github.com/EdgrFA/RAE411/blob/master/Week1/CompletedShellCourse.png)
-```
+
 
 ### Week2
 

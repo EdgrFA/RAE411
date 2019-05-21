@@ -8,6 +8,8 @@ In this report it can be found all the tasks done it during the semester.
 
 Introduction to UNIX Shell.
 
+<img src="http://edii.epizy.com/images/CompletedShellCourse.png" width="100" />
+
 ![Image](http://edii.epizy.com/images/CompletedShellCourse.png)
 
 

@@ -27,9 +27,16 @@ In this report it can be found all the tasks done it during the semester.
 
 ### Week4
 
+- AWK scripts Homework
+
+Using the past learned UNIX commands and using AWK Scripts, write a script in BASH that calculates statistical data approval gathered from PING program.
+
+<a href="https://github.com/EdgrFA/RAE411/blob/master/Week4/BashPing">Bash Script</a>
 
 ### Week5
 
+- Learning the Jupyter platform used to develop open-source software.
+- Code in R and Python using Jupyter.
 
 ### Week6
 
@@ -39,7 +46,7 @@ Midterm Exam - Plotting large vectors in R and Python.
 
 ### Week7
 
-- Microproject
+- Microproject in R and Python.
 
 <a href="https://github.com/EdgrFA/RAE411/blob/master/Week7/MicroProject.pdf">Microproject PDF</a>
 
@@ -56,33 +63,5 @@ Midterm Exam - Plotting large vectors in R and Python.
 ### Week13
 
 ### Week14
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EdgrFA/RAE411/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

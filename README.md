@@ -58,4 +58,4 @@ Midterm Exam - Plotting large vectors in R and Python.
 
 ### Week 15
 
-- Github Page
+- Github Page with the summary of all the work during the semester.

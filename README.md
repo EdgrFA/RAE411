@@ -6,7 +6,7 @@ In this report it can be found all the tasks done it during the semester.
 
 ### Week1
 
-Introduction to UNIX Shell.
+- Introduction to UNIX Shell.
 
 <img src="http://edii.epizy.com/images/CompletedShellCourse.png" width="800" align="middle"/>
 
@@ -14,19 +14,34 @@ Introduction to UNIX Shell.
 
 ### Week2
 
-Plotting in R and python languages.
+- More UNIX Shell comands
+
+- Plotting in R and Python languages.
 
 <a href="https://github.com/EdgrFA/RAE411/blob/master/Week2/PlottingVectors.pdf">Homework 2</a>
 
 ### Week3
 
+- Learning IPV4 related problem solving.
+- Learning and establishing ssh connections.
+
 ### Week4
+
 
 ### Week5
 
+
 ### Week6
 
+Midterm Exam - Plotting large vectors in R and Python.
+
+<a href="">Midterm Exam PDF</a>
+
 ### Week7
+
+- Microproject
+
+<a href="">Microproject PDF</a>
 
 ### Week8
 

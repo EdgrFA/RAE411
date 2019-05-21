@@ -1,0 +1,10 @@
+PING google.lv (216.58.207.195) 56(84) bytes of data.
+64 bytes from arn11s04-in-f3.1e100.net (216.58.207.195): icmp_seq=1 ttl=47 time=74.3 ms
+64 bytes from arn11s04-in-f3.1e100.net (216.58.207.195): icmp_seq=2 ttl=47 time=78.9 ms
+64 bytes from arn11s04-in-f3.1e100.net (216.58.207.195): icmp_seq=3 ttl=47 time=58.2 ms
+64 bytes from arn11s04-in-f3.1e100.net (216.58.207.195): icmp_seq=4 ttl=47 time=58.4 ms
+64 bytes from arn11s04-in-f3.1e100.net (216.58.207.195): icmp_seq=5 ttl=47 time=69.0 ms
+
+--- google.lv ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 58.292/67.821/78.964/8.328 ms

@@ -14,6 +14,10 @@ Introduction to UNIX Shell.
 
 ### Week2
 
+Plotting in R and python languages.
+
+<a href="https://github.com/EdgrFA/RAE411/blob/master/Week2/PlottingVectors.pdf">Homework 2</a>
+
 ### Week3
 
 ### Week4

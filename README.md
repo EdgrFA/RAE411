@@ -1,12 +1,16 @@
 ## Welcome to my final report of the course: Telecommunication Software. 
 
-<p>Student: Edgar Flores Altamirano.</p>
+Student: Edgar Flores Altamirano.
+  
 In this report it can be found all the tasks done it during the semester.
 
 ### Week1
 
 Introduction to UNIX Shell.
+
+```markdown
 ![Image](https://github.com/EdgrFA/RAE411/blob/master/Week1/CompletedShellCourse.png)
+```
 
 ### Week2
 

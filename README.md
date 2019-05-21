@@ -1,5 +1,6 @@
 ## Welcome to my final report of the course: Telecommunication Software. 
 
+Student: Edgar Flores Altamirano.
 In this report it can be found all the tasks done it during the semester.
 
 ### Week1
